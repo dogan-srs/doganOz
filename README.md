@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning Vscode Api
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 My 2022 Goal: Learn to Contribute Open Source Projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Connect with me:
 
